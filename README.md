@@ -12,3 +12,11 @@ I have experience in cloud computing, low-code platforms, and technology communi
 
 ## Contact
 You can reach me at [LinkedIn](https://www.linkedin.com/username) or [GitHub](https://github.com/username).
+my-portfolio/
+│── index.html
+│── about.html
+│── styles/
+│   ├── style.css
+│── scripts/
+│   ├── main.js
+│── images/
